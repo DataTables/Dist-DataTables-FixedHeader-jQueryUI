@@ -1,0 +1,10 @@
+{
+    "css": [
+        "css/fixedHeader.jqueryui.css",
+        "css/fixedHeader.jqueryui.min.css"
+    ],
+    "js": [],
+    "src-repo": "http://github.com/DataTables/FixedHeader",
+    "last-sync": "648cf9284f0fac4084500f3b320e3982d1d61b8e",
+    "last-tag": "3.0.0"
+}

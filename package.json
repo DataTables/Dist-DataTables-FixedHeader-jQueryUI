@@ -1,0 +1,29 @@
+{
+    "name": "datatables.net-fixedheader-jqui",
+    "version": "3.0.0",
+    "description": "FixedHeader for DataTables with styling for [jQuery UI](http://jqueryui.com/)",
+    "files": [
+        "css/fixedHeader.jqueryui.css"
+    ],
+    "main": "./js/fixedHeader.jqueryui.js",
+    "keywords": [
+        "fixed headers",
+        "sticky",
+        "DataTables",
+        "jQuery",
+        "table",
+        "jQuery UI"
+    ],
+    "homepage": "https://datatables.net",
+    "bugs": "https://datatables.net/forums",
+    "license": "MIT",
+    "author": {
+        "name": "SpryMedia Ltd",
+        "url": "http://datatables.net"
+    },
+    "dependencies": {
+        "jquery": ">=1.7",
+        "datatables.net-jqui": ">=1.10.9",
+        "datatables.net-fixedheader": ">=3.0.0"
+    }
+}
