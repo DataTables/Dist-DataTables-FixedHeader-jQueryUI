@@ -5,6 +5,7 @@
     "files": [
         "css/fixedHeader.jqueryui.css"
     ],
+    "style": "css/fixedHeader.jqueryui.css",
     "keywords": [
         "fixed headers",
         "sticky",
