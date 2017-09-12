@@ -1,6 +1,6 @@
 {
     "name": "datatables.net-fixedheader-jqui",
-    "version": "3.1.2",
+    "version": "3.1.3",
     "description": "FixedHeader for DataTables with styling for [jQuery UI](http://jqueryui.com/)",
     "files": [
         "css/**/*.css"
@@ -23,8 +23,8 @@
     },
     "dependencies": {
         "jquery": ">=1.7",
-        "datatables.net-jqui": ">=1.10.9",
-        "datatables.net-fixedheader": ">=3.0.0"
+        "datatables.net-jqui": "^1.10.15",
+        "datatables.net-fixedheader": "3.1.3"
     },
     "repository": {
         "type": "git",
