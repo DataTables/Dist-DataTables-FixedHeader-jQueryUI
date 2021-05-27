@@ -1,35 +1,49 @@
 {
     "name": "datatables.net-fixedheader-jqui",
+    "description": "FixedHeader for DataTables with styling for [jQueryUI](http://jqueryui.com/)",
+    "main": "js/fixedHeader.jqueryui.js",
+    "style": "css/fixedHeader.jqueryui.css",
     "version": "3.1.8",
-    "description": "FixedHeader for DataTables with styling for [jQuery UI](http://jqueryui.com/)",
     "files": [
         "css/**/*.css",
         "js/**/*.js"
     ],
-    "style": "css/fixedHeader.jqueryui.css",
     "keywords": [
-        "fixed headers",
-        "sticky",
-        "DataTables",
+        "FixedHeader",
+ "Fixed Headers",
+ "Sticky",
+        "jQuery UI",
+ "jQueryUI",
+        "Datatables",
         "jQuery",
         "table",
-        "jQuery UI"
+        "filter",
+        "sort"
     ],
-    "homepage": "https://datatables.net",
-    "bugs": "https://datatables.net/forums",
-    "license": "MIT",
+    "dependencies": {
+        "datatables.net-fixedheader": ">=3.1.8",
+        "datatables.net-jqui": ">=1.10.24",
+        "jquery": ">=1.7"
+    },
+    "moduleType": [
+        "globals",
+        "amd",
+        "node"
+    ],
+    "ignore": [
+        "composer.json",
+        "datatables.json",
+        "package.json"
+    ],
     "author": {
         "name": "SpryMedia Ltd",
         "url": "http://datatables.net"
     },
-    "dependencies": {
-        "jquery": ">=1.7",
-        "datatables.net-jqui": "^1.10.15",
-        "datatables.net-fixedheader": "3.1.8"
-    },
+    "homepage": "https://datatables.net",
+    "bugs": "https://datatables.net/forums",
+    "license": "MIT",
     "repository": {
         "type": "git",
         "url": "https://github.com/DataTables/Dist-DataTables-FixedHeader-jQueryUI.git"
-    },
-    "main": "js/fixedHeader.jqueryui.js"
+    }
 }
