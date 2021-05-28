@@ -19,7 +19,7 @@ npm install datatables.net-fixedheader-jqui
 
 ```
 var $ = require( 'jquery' );
-var dt = require( 'datatables.net-fixedheader-jqui}' )( window, $ );
+var dt = require( 'datatables.net-fixedheader-jqui' )( window, $ );
 ```
 
 ### bower
