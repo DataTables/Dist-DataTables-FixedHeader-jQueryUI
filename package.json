@@ -3,6 +3,7 @@
     "description": "FixedHeader for DataTables with styling for [jQueryUI](http://jqueryui.com/)",
     "main": "js/fixedHeader.jqueryui.js",
     "style": "css/fixedHeader.jqueryui.css",
+    "types": "./types/fixedHeader.jQueryUI.d.ts",
     "version": "3.1.8",
     "files": [
         "css/**/*.css",
