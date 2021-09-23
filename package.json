@@ -4,17 +4,17 @@
     "main": "js/fixedHeader.jqueryui.js",
     "style": "css/fixedHeader.jqueryui.css",
     "types": "./types/fixedHeader.jQueryUI.d.ts",
-    "version": "3.1.9",
+    "version": "3.2.0",
     "files": [
         "css/**/*.css",
         "js/**/*.js"
     ],
     "keywords": [
         "FixedHeader",
- "Fixed Headers",
- "Sticky",
+        "Fixed Headers",
+        "Sticky",
         "jQuery UI",
- "jQueryUI",
+        "jQueryUI",
         "Datatables",
         "jQuery",
         "table",
