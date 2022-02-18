@@ -4,7 +4,7 @@
     "main": "js/fixedHeader.jqueryui.js",
     "style": "css/fixedHeader.jqueryui.css",
     "types": "./types/fixedHeader.jQueryUI.d.ts",
-    "version": "3.2.1",
+    "version": "3.2.2",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
