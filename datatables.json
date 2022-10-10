@@ -1,7 +1,9 @@
 {
     "js": [
         "js/fixedHeader.jqueryui.js",
-        "js/fixedHeader.jqueryui.min.js"
+        "js/fixedHeader.jqueryui.min.js",
+        "js/fixedHeader.jqueryui.min.mjs",
+        "js/fixedHeader.jqueryui.mjs"
     ],
     "css": [
         "css/fixedHeader.jqueryui.css",
@@ -11,6 +13,5 @@
         "types/fixedHeader.jQueryUI.d.ts"
     ],
     "src-repo": "http://github.com/DataTables/FixedHeader",
-    "last-tag": "3.2.2",
-    "last-sync": "9a8a4239841a494bd2c6c7615084524658964bcd"
+    "last-tag": "3.2.4"
 }

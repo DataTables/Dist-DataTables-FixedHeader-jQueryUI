@@ -2,12 +2,14 @@
     "name": "datatables.net-fixedheader-jqui",
     "description": "FixedHeader for DataTables with styling for [jQueryUI](http://jqueryui.com/)",
     "main": "js/fixedHeader.jqueryui.js",
+    "module": "js/fixedHeader.jqueryui.mjs",
     "style": "css/fixedHeader.jqueryui.css",
     "types": "./types/fixedHeader.jQueryUI.d.ts",
     "version": "3.2.4",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
+        "js/**/*.mjs",
         "types/**/*.d.ts"
     ],
     "keywords": [
