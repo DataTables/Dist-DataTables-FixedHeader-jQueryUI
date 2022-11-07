@@ -5,7 +5,7 @@
     "module": "js/fixedHeader.jqueryui.mjs",
     "style": "css/fixedHeader.jqueryui.css",
     "types": "./types/types.d.ts",
-    "version": "3.2.4",
+    "version": "3.3.0",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
@@ -14,10 +14,10 @@
     ],
     "keywords": [
         "FixedHeader",
- "Fixed Headers",
- "Sticky",
+        "Fixed Headers",
+        "Sticky",
         "jQuery UI",
- "jQueryUI",
+        "jQueryUI",
         "Datatables",
         "jQuery",
         "table",
