@@ -3,8 +3,8 @@
  */
 
 import $ from 'jquery';
-import DataTable from 'datatables.net-ju';
-import 'datatables.net-fixedheader';
+import DataTable from 'datatables.net-jqui';
+import FixedHeader from 'datatables.net-fixedheader';
 
 
 
