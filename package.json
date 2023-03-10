@@ -5,7 +5,7 @@
     "module": "js/fixedHeader.jqueryui.mjs",
     "style": "css/fixedHeader.jqueryui.css",
     "types": "./types/types.d.ts",
-    "version": "3.3.1",
+    "version": "3.3.2",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
