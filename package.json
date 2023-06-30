@@ -4,7 +4,7 @@
     "main": "js/fixedHeader.jqueryui.js",
     "module": "js/fixedHeader.jqueryui.mjs",
     "style": "css/fixedHeader.jqueryui.css",
-    "types": "./types/types.d.ts",
+    "types": "./types/fixedHeader.jqueryui.d.ts",
     "version": "3.3.2",
     "files": [
         "css/**/*.css",
@@ -14,10 +14,10 @@
     ],
     "keywords": [
         "FixedHeader",
-        "Fixed Headers",
-        "Sticky",
+ "Fixed Headers",
+ "Sticky",
         "jQuery UI",
-        "jQueryUI",
+ "jQueryUI",
         "Datatables",
         "jQuery",
         "table",
@@ -25,8 +25,8 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net-fixedheader": ">=3.2.4",
-        "datatables.net-jqui": ">=1.12.1",
+        "datatables.net-fixedheader": ">=3.3.2",
+        "datatables.net-jqui": ">=1.13.4",
         "jquery": ">=1.7"
     },
     "moduleType": [
