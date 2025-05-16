@@ -5,7 +5,7 @@
     "module": "js/fixedHeader.jqueryui.mjs",
     "style": "css/fixedHeader.jqueryui.css",
     "types": "./types/fixedHeader.jqueryui.d.ts",
-    "version": "4.0.1",
+    "version": "4.0.2",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
@@ -25,7 +25,7 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net-fixedheader": "4.0.1",
+        "datatables.net-fixedheader": "4.0.2",
         "datatables.net-jqui": "^2",
         "jquery": ">=1.7"
     },
