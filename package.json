@@ -5,7 +5,7 @@
     "module": "js/fixedHeader.jqueryui.mjs",
     "style": "css/fixedHeader.jqueryui.css",
     "types": "./types/fixedHeader.jqueryui.d.ts",
-    "version": "4.0.6",
+    "version": "5.0.0-beta.1",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
@@ -19,26 +19,14 @@
         "jQuery UI",
         "jQueryUI",
         "Datatables",
-        "jQuery",
         "table",
         "filter",
         "sort"
     ],
     "dependencies": {
-        "datatables.net-fixedheader": "4.0.6",
-        "datatables.net-jqui": "^2",
-        "jquery": ">=1.7"
+        "datatables.net-fixedheader": "5.0.0-beta.1",
+        "datatables.net-jqui": "^2"
     },
-    "moduleType": [
-        "globals",
-        "amd",
-        "node"
-    ],
-    "ignore": [
-        "composer.json",
-        "datatables.json",
-        "package.json"
-    ],
     "author": {
         "name": "SpryMedia Ltd",
         "url": "http://datatables.net"
@@ -48,6 +36,6 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/DataTables/Dist-DataTables-FixedHeader-jQueryUI.git"
+        "url": "git+https://github.com/DataTables/FixedHeader.git"
     }
 }
