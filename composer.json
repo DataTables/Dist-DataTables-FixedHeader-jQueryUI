@@ -1,6 +1,6 @@
 {
     "name": "datatables.net/datatables.net-fixedheader-jqui",
-    "description": "FixedHeader for DataTables with styling for [jQueryUI](http://jqueryui.com/)",
+    "description": "FixedHeader for DataTables with styling for jQueryUI",
     "support": {
         "forum": "https://datatables.net/forums",
         "source": "https://github.com/DataTables/Dist-DataTables-FixedHeader-jQueryUI"
