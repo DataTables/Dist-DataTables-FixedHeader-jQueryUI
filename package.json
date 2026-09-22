@@ -5,7 +5,7 @@
     "module": "./js/fixedHeader.jqueryui.mjs",
     "style": "./css/fixedHeader.jqueryui.css",
     "types": "./types/fixedHeader.jqueryui.d.ts",
-    "version": "5.0.0",
+    "version": "5.1.0",
     "files": [
         "js",
         "css",
@@ -23,8 +23,8 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net-fixedheader": "5.0.0",
-        "datatables.net-jqui": "^3"
+        "datatables.net-fixedheader": "5.1.0",
+        "datatables.net-jqui": "^3.1"
     },
     "author": {
         "name": "SpryMedia Ltd",
