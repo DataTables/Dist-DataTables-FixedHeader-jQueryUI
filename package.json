@@ -40,9 +40,10 @@
     "exports": {
         ".": {
             "types": "./types/fixedHeader.jqueryui.d.ts",
+            "style": "./css/fixedHeader.jqueryui.css",
             "import": "./js/fixedHeader.jqueryui.mjs",
-            "default": "./js/fixedHeader.jqueryui.mjs",
-            "require": "./js/fixedHeader.jqueryui.js"
+            "require": "./js/fixedHeader.jqueryui.js",
+            "default": "./js/fixedHeader.jqueryui.mjs"
         },
         "./js/*": "./js/*",
         "./css": {
