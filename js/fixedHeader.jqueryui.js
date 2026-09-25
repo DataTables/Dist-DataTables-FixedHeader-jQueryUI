@@ -1,4 +1,4 @@
-/*! FixedHeader jQuery UI styling 5.1.0 for DataTables
+/*! FixedHeader jQuery UI styling 5.1.1 for DataTables
  * Copyright (c) SpryMedia Ltd - datatables.net/license
  */
 
